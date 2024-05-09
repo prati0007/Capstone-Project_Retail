@@ -1,5 +1,5 @@
 # OList_Marketing_and_Retail_analytics
-# OList Retail Dataset#
+# OList Retail Dataset
 
 OList is an e-commerce company that has faced some losses recently and they want to manage their inventory very well so as to reduce any unnecessary costs that they might be bearing.
 
